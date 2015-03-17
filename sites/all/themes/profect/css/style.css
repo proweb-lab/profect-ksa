@@ -269,7 +269,7 @@ border-bottom-color: #57B3DF;
 }
 .partner-title_header img{
   width: 218px;}
-.news-images li,
-.event-images li{
+.news-images .field-item,
+.event-images .field-item{
     float: left;
 }
